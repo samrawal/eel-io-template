@@ -16,12 +16,12 @@ python3 app.py
 #+END_SRC
 
 ** Currently Built-In Methods
-- To *send data from GUI (Javascript) and trigger a Python function*, use the `send_data()` function in `script.js`.
+- To *send data from GUI (Javascript) and trigger a Python function*, use the ~send_data()~ function in ~script.js~.
 - To *write to the onscreen log*:
-  + `log("Log text here")` from Javascript
-  + `eel.log('Log text here')` from Python
-- To *request data from GUI (Python)*, use the `get_inputs()` function:
-  + `data = eel.get_inputs()`
+  + ~log("Log text here")~ from Javascript
+  + ~eel.log('Log text here')~ from Python
+- To *request data from GUI (Python)*, use the ~get_inputs()~ function:
+  + ~data = eel.get_inputs()~
 
 ** Screenshot
 [[./screenshots/screenshot1.png]]

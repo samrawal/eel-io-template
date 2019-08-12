@@ -1,4 +1,4 @@
-* eel-dashboard-template
+* eel-io-template
 Template for getting a GUI and Python backend via Eel quickly up-and-running.
 
 I often need to quickly spin up small scripts or applications to share with others that require a basic GUI. This is a bare-bones template that can easily be adapted for such use-cases.
